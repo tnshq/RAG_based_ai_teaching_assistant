@@ -1,0 +1,7 @@
+I'd be happy to help you with your web development course.
+
+You're asking about where HTML is started in the first website we built. That's covered in Video 2 of our course, "Your First HTML Website".
+
+In this video, at approximately 0:58 (1281.44 seconds), we start discussing the basics of HTML and its syntax. We also take a look at an example HTML file to show you how it works.
+
+If you want to see exactly where we start talking about HTML, I recommend watching Video 2 from the beginning until around 1 minute in. You can find this video by navigating to our course playlist and selecting the "Your First HTML Website" title. Enjoy!
